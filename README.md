@@ -27,6 +27,11 @@ To ensure accurate analysis, the following data cleaning steps were applied:
 A cleaned table (`clean_orders`) was created and used for all analysis.
 
 ## Analysis Summary
+## Results at a Glance
+- Peak monthly revenue: November 2011 (~£813K)
+- Repeat customers: ~66% of customer base
+- Revenue from repeat customers: ~57% of total revenue
+- Key revenue drivers: Seasonal, gift-oriented products
 
 ### Revenue & Seasonality
 - Revenue shows strong seasonality with a clear peak in Q4.
@@ -56,13 +61,14 @@ A cleaned table (`clean_orders`) was created and used for all analysis.
 
 ## Repository Structure
 sql/
-01_schema.sql
-02_data_cleaning.sql
-03_revenue_analysis.sql
-04_customer_analysis.sql
-05_product_analysis.sql
+- 01_schema.sql
+- 02_data_cleaning.sql
+- 03_revenue_analysis.sql
+- 04_customer_analysis.sql
+- 05_product_analysis.sql
+
 insights/
-key_findings.md
+- key_findings.md
 
 ## Key Takeaway
 This project demonstrates how SQL can be used to transform raw transactional data into actionable
