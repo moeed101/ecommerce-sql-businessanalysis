@@ -73,3 +73,7 @@ insights/
 ## Key Takeaway
 This project demonstrates how SQL can be used to transform raw transactional data into actionable
 business insights related to revenue performance, customer retention, and product seasonality.
+
+## Dataset Access
+The raw dataset is publicly available as the "Online Retail Dataset".
+Due to size and licensing considerations, the CSV file is not included in this repository.
